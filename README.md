@@ -6,7 +6,6 @@
   booktitle={Availability, Reliability and Security (ARES), 2016 11th International Conference on},<br />
   pages={69--78},<br />
   year={2016},<br />
-  organization={IEEE}<br />
-}
+  organization={IEEE}}
 
 This is a private code repository. Please contact the authors to get the access. 
